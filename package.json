@@ -1,0 +1,23 @@
+{
+  "name": "localization",
+  "version": "1.0.0",
+  "description": "localization manager",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Soflar/localizationtest.git"
+  },
+  "author": "Sam Meurs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soflar/localizationtest/issues"
+  },
+  "homepage": "https://github.com/Soflar/localizationtest#readme"
+}
